@@ -5,6 +5,7 @@
 - 📫 How to reach me: jfkndskjf@gmail.com (yes, that is my e-mail)!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Not interesting.
+- I also use Arch Linux btw
 
 <!---
 kdslfjioasdfj/kdslfjioasdfj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
